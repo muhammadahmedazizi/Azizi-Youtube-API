@@ -1,0 +1,6 @@
+secret.py
+test.py
+info.txt
+*.pyc
+.idea/
+venv/
